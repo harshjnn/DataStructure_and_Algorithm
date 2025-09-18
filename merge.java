@@ -27,7 +27,6 @@ public class merge {
             x++;
             idx2++;
         }
-
         // .................copy to original...........
         for(int i =0 ,j=si; i<merge.length;i++,j++){
             arr[j]=merge[i];
